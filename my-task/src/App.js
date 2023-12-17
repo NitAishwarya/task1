@@ -42,10 +42,11 @@ function App() {
        <input type='number' onChange={(e)=>setnum2(e.target.value)} value={num2} />
      </div>
      <br/>
-       <div> <button onClick={() => addValue()}> ADD </button> </div>
-       <div> <button onClick={() => subValue()}> SUB </button> </div>
-       <div> <button onClick={() => mulValue()}> MUL </button> </div>
-       <div> <button onClick={() => divValue()}> DIV </button> </div>
+       <div> <button onClick={() => addValue()}> ADD </button> 
+        <button onClick={() => subValue()}> SUB </button> 
+        <button onClick={() => mulValue()}> MUL </button> 
+        <button onClick={() => divValue()}> DIV </button> 
+        </div>
        <br/>
      <div>
       <span> Answer : {add} </span>
