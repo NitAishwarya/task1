@@ -14,7 +14,7 @@ function App()
    const numBtn4 = [0];
 
    const opBtn1 = ['+'];
-   const opBtn2 = ['B'];
+   const opBtn2 = ['.'];
    const opBtn3 = ['x'];
    const opBtn4 = ['_'];
    const opBtn5 = ['÷'];

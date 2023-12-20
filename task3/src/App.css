@@ -1,8 +1,12 @@
 .App {
-  /* text-align: center; */
-  border: 1px solid gray;
-  width: 500px;
-  text-align: -webkit-center;
+ text-align: center; 
+  border: 2px solid black;
+  width: 350px;
+  height: 450px;
+  position: absolute;
+  left: 40%;
+  top: 10%;
+  
 }
 
 
@@ -17,13 +21,19 @@
 }
 
 button{
-       padding: 3%;
-       margin: 1px;
+       padding: 25px 30px;
+       margin: 2px;
+       border: 1px solid black;
+       background-color: whitesmoke;
+       border-radius: 10px;
 }
 
 input{
         margin: 2%;
         font-size: 25px;
-        width: 150px;
+        width: 280px;
+        height: 90px;
         background-color: lightgray;
+        border-radius: 10px;
+        margin-bottom: 5%;
 }
