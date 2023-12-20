@@ -1,0 +1,29 @@
+.App {
+  /* text-align: center; */
+  border: 1px solid gray;
+  width: 500px;
+  text-align: -webkit-center;
+}
+
+
+#x1{
+      margin-top: 3%;
+      padding: 3%;
+}
+
+#root
+{
+  text-align: -webkit-center;
+}
+
+button{
+       padding: 3%;
+       margin: 1px;
+}
+
+input{
+        margin: 2%;
+        font-size: 25px;
+        width: 150px;
+        background-color: lightgray;
+}
