@@ -1,0 +1,10 @@
+Modal.Dialog{
+        background-color: aliceblue;
+}
+button.btn.btn-primary{
+        margin: 2%;
+}
+
+nav.navbar.navbar-expand.navbar-light.bg-success{
+        margin-top: 2%;
+}
